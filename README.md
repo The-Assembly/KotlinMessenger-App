@@ -6,3 +6,6 @@ By using Firebase & Kotlin, you will be able to create a chat app. Users can ent
 
 1. Android Studio (preferably 3.5.3 version): https://developer.android.com/studio
 2. Make sure 2 simulators are installed by going to Android Studio and from the menu bar choose Tools > AVD Manager. Add any 2 devices.
+
+
+![](ezgif-7-8cb03c2e65f8.gif)
